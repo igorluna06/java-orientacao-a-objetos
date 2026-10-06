@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/conceitosBasicosJava/conceitosBasicosJava.iml" filepath="$PROJECT_DIR$/conceitosBasicosJava/conceitosBasicosJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java com orientacao a objetos.iml" filepath="$PROJECT_DIR$/.idea/java com orientacao a objetos.iml" />
     </modules>
   </component>
